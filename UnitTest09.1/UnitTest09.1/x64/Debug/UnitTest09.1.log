@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dod.cpp
+  sum.cpp
+  var.cpp
+  Generating Code...
+  UnitTest09.1.cpp
+     Creating library C:\Users\Користувач\source\repos\UnitTest09.1\x64\Debug\UnitTest09.1.lib and object C:\Users\Користувач\source\repos\UnitTest09.1\x64\Debug\UnitTest09.1.exp
+UnitTest09.1.obj : error LNK2019: unresolved external symbol "void __cdecl nsSum::sum(void)" (?sum@nsSum@@YAXXZ) referenced in function "public: void __cdecl UnitTest91::UnitTest91::TestSum(void)" (?TestSum@UnitTest91@1@QEAAXXZ)
+C:\Users\Користувач\source\repos\UnitTest09.1\x64\Debug\UnitTest09.1.dll : fatal error LNK1120: 1 unresolved externals
